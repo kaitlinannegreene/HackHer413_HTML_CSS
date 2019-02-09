@@ -1,4 +1,4 @@
-# HackHer413_HTML_CSS
+# HackHer413 HTML and CSS Workshop!
 HackHer413 Workshop: Intro to HTML and CSS
 
 
@@ -16,13 +16,25 @@ HackHer413 Workshop: Intro to HTML and CSS
 
 # What do you want to add to your postcard?
 
-1. Try modifying or adding some text (try out p or h tags)
+1. Try modifying or adding some text, put it inside the body tags:
+```html
+<h1>Kaitlin's HackHer413 Demo</h1>
+```
 1. change the color of your text in the CSS file with the following syntax:
 
 ```css
 h1 {
   color: pink;
 }
+```
+
+1.Create a list (ordered or unordered) with some goals for this weekend.  This code will produce an ordered list:
+```html
+     <ul>
+          <li>List item #1</li>
+          <li>List item #2</li>
+          <li>List item #3</li>
+      </ul>
 ```
 
 
