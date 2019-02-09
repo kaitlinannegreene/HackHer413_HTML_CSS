@@ -6,7 +6,7 @@ HackHer413 Workshop: Intro to HTML and CSS
 
 1. Create a new folder somewhere in your workspace
 
-1. You can download/extract the zip or you can copy/paste raw text into new files
+1. Grab the Workshop_Files folder; you can download/extract the zip or you can copy/paste raw text into new files
 
 1. If you choose to copy/paste the code, follow the below items: 
   * name your html file **postcard_template.html**
