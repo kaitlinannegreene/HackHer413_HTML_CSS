@@ -42,6 +42,17 @@ h1 {
      <a href="https://www.hackher413.com/>The Hackathon website!</a>
 ```
 
+# How do I view my page in the browser?
+
+1. Go to your file explorer and find the folder where you saved your code
+1. Right click on the html file and open with Chrome or your browser of choice
+
+# How do I view my HTML and CSS code in the browser?
+
+## A few options:
+* F12
+* Right click anywhere in the page and click and *inspect*
+
 
 # What are some resources I can go to if I need help?
 
