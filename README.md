@@ -16,7 +16,15 @@ HackHer413 Workshop: Intro to HTML and CSS
 
 # What do you want to add to your postcard?
 
-1. Try modifying or adding some text
+1. Try modifying or adding some text (try out p or h tags)
+1. change the color of your text in the CSS file with the following syntax:
+
+```css
+h1 {
+  color: pink;
+}
+```
+
 
 
 # What are some resources I can go to if I need help?
