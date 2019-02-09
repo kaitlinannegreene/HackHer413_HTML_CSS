@@ -14,3 +14,14 @@ HackHer413 Workshop: Intro to HTML and CSS
   * remember to copy over the image as well, keep it in the same directory and call it **hack_her_logo.png**
 
 
+# What do you want to add to your postcard?
+
+1. Try modifying or adding some text
+
+
+# What are some resources I can go to if I need help?
+
+
+[W3 Schools for HTML](https://www.w3schools.com/html/default.asp)
+
+[W3 Schools for CSS](https://www.w3schools.com/css/default.asp)
