@@ -1,4 +1,4 @@
-# :blossom: HackHer413 HTML and CSS Workshop! :blossom:
+# :blossom: TechTogether HTML and CSS Workshop! :blossom:
 HackHer413 Workshop: Intro to HTML and CSS
 
 
