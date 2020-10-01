@@ -1,7 +1,7 @@
 .postcard {
-    width: 800px;
-    height: 600px;
-    color: white;
+    width: 820px;
+    height: 610px;
+    color: AntiqueWhite;
     position: absolute;
     top: 40px;
     left: 40px;
@@ -13,7 +13,7 @@
   }
 
   .v1{
-    border-left: 6px solid #D099D5;
+    border-left: 6px solid black;
     height: 600px;
     position: absolute;
     left: 400;
